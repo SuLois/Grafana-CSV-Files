@@ -1,4 +1,4 @@
-﻿Milli-seconds;Altitude AL m;Altitude SL m;Pressure hPa;Temperature Â°C;vertical speed m/s;Engine levelOut/1024;battery V;battery A;controller Temp Â°C;motor Temp Â°C;battery Temp Â°C
+﻿Milliseconds;AltitudeALm;AltitudeSLm;PressurehPa;Temperature;verticalspeedms;EnginelevelOut1024;batteryV;batteryA;controllerTemp;motorTemp;batteryTemp
 1031361;0.70;6.60;1022.70;23.54;0.40;234;61.50;0.00;11;75;16
 1031611;1.00;6.90;1022.67;23.54;1.60;227;61.50;0.00;12;75;16
 1031861;1.20;7.10;1022.64;23.54;1.60;227;61.20;10.20;12;75;16
